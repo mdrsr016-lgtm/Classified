@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { TopBar } from './components/common/TopBar';
 import { HeroBanner } from './components/common/HeroBanner';
 
